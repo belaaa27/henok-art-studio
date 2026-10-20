@@ -1,0 +1,25 @@
+/* STREAMING_CHUNK:Configuring Tailwind CSS theme tokens for Henok Art Studio... */
+@import "tailwindcss";
+
+@theme {
+  /* Approved Brand Color System */
+  --color-studio-charcoal: #171816;
+  --color-gallery-ivory: #f4efe6;
+  --color-burnt-orange: #b65c36;
+  --color-deep-teal: #244c4a;
+  --color-soft-stone: #c9c1b5;
+
+  /* Typography */
+  --font-sans:
+    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+}
+
+body {
+  background-color: var(--color-studio-charcoal);
+  color: var(--color-gallery-ivory);
+  font-family: var(--font-sans);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}

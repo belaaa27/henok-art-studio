@@ -34,8 +34,7 @@ export const ARTWORKS = [
     medium: "Mixed media on stretched canvas",
     year: "Demo Work",
     dimensions: "150 x 120 cm",
-    image:
-      "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/painting 2.jpg",
     featured: true,
     aspect: "aspect-3/4",
     description:
@@ -48,8 +47,7 @@ export const ARTWORKS = [
     medium: "Acrylic on canvas",
     year: "Demo Work",
     dimensions: "120 x 100 cm",
-    image:
-      "https://images.unsplash.com/photo-1549887534-1541e9326642?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/painting 3.jpg",
     featured: false,
     aspect: "aspect-3/4",
     description:
@@ -64,8 +62,7 @@ export const ARTWORKS = [
     medium: "Indoor acrylic & aerosol mural installation",
     year: "Demo Work",
     dimensions: "6.5m x 3.2m",
-    image:
-      "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/murals 1.jpg",
     featured: true,
     aspect: "aspect-3/4",
     description:
@@ -78,8 +75,7 @@ export const ARTWORKS = [
     medium: "Exterior weather-resistant paint",
     year: "Demo Work",
     dimensions: "10m x 4.5m",
-    image:
-      "https://images.unsplash.com/photo-1508873696983-2df515122519?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/murals 2.jpg",
     featured: false,
     aspect: "aspect-3/4",
     description:
@@ -92,8 +88,7 @@ export const ARTWORKS = [
     medium: "Mixed aerosol & outdoor masonry paint",
     year: "Demo Work",
     dimensions: "8m x 3.5m",
-    image:
-      "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/murals 3.jpg",
     featured: false,
     aspect: "aspect-3/4",
     description:
@@ -108,8 +103,7 @@ export const ARTWORKS = [
     medium: "Charcoal and graphite on heavy toned paper",
     year: "Demo Work",
     dimensions: "75 x 55 cm",
-    image:
-      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/drawing 1.jpg",
     featured: true,
     aspect: "aspect-3/4",
     description:
@@ -122,8 +116,7 @@ export const ARTWORKS = [
     medium: "Fine ink and graphite on hand-pressed paper",
     year: "Demo Work",
     dimensions: "60 x 40 cm",
-    image:
-      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/drawing 2.jpg",
     featured: false,
     aspect: "aspect-3/4",
     description:
@@ -152,8 +145,7 @@ export const ARTWORKS = [
     medium: "Carved wood, mineral pigments, and matte resin",
     year: "Demo Work",
     dimensions: "140 x 90 cm",
-    image:
-      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/wall-art 1.jpg",
     featured: false,
     aspect: "aspect-3/4",
     description:
@@ -166,8 +158,7 @@ export const ARTWORKS = [
     medium: "Brushed steel & brass relief panel",
     year: "Demo Work",
     dimensions: "160 x 100 cm",
-    image:
-      "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/wall-art 2.jpg",
     featured: false,
     aspect: "aspect-3/4",
     description:
@@ -180,8 +171,7 @@ export const ARTWORKS = [
     medium: "Natural jute, wool, and hand-dyed cotton",
     year: "Demo Work",
     dimensions: "130 x 110 cm",
-    image:
-      "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/wall-art 3.jpg",
     featured: false,
     aspect: "aspect-3/4",
     description:
